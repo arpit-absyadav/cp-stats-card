@@ -78,6 +78,7 @@ typings/
 dist/
 lib/
 **/.DS_Store
-.src/
+
 .github/
 .wrangler.toml
+.extra/
